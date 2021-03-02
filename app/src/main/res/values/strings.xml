@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP_PERMISSIONS</string>
+    <string name="location_needed">Vous devez autoriser l\'accès au GPS pour qu\'on puisse récupérer votre position</string>
+    <string name="allowAccess">Autoriser l\'accès</string>
+    <string name="location_welcome">Bienvenue sur notre application, pour avoir votre position cliquer sur le bouton Autoriser l\'accès</string>
+    <string name="allow_enabled">Autorisation acceptée</string>
+    <string name="allow_popup_title">Autorisation..</string>
+    <string name="allow_popup_message">"Nous avons besoin de votre accord pour afficher votre position GPS"</string>
+</resources>
